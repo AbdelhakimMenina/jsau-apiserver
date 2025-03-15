@@ -1,7 +1,8 @@
+```
 [![pipeline status](https://gitlab.sorbonne-paris-nord.fr/11704898/jsau-apiserver/badges/main/pipeline.svg)](https://gitlab.sorbonne-paris-nord.fr/11704898/jsau-apiserver/-/pipelines)
 
 [![Coverage](https://gitlab.sorbonne-paris-nord.fr/11704898/jsau-apiserver/badges/main/coverage.svg)](https://gitlab.sorbonne-paris-nord.fr/11704898/jsau-apiserver/-/commits/main)
-
+```
 # jsau-apiserver
 
 
