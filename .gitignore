@@ -1,0 +1,11 @@
+# Node.js modules
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Generated files
+*.log
+dist/
+coverage/
+
